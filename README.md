@@ -1,4 +1,4 @@
-# 🏗️ Uzun Demir Distributed Platform
+# 🏗️ ML Project Template – Production-Ready Machine Learning Platform by Uzun Demir 
 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://docker.com)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
