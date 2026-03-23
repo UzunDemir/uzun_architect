@@ -1,12 +1,10 @@
 # 🏗️ Uzun Demir Distributed Platform
 
-<img width="1408" height="768" alt="Gemini_Generated_Image_whqex1whqex1whqe" src="https://github.com/user-attachments/assets/07ddce6c-f2ca-46e2-873a-927f2d313838" />
-
-
-
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://docker.com)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
+
+<img width="1408" height="768" alt="Gemini_Generated_Image_whqex1whqex1whqe" src="https://github.com/user-attachments/assets/07ddce6c-f2ca-46e2-873a-927f2d313838" />
 
 ## 📋 Overview
 
