@@ -1,0 +1,1 @@
+# Uzun Demir Standard: __init__.py

@@ -1,0 +1,17 @@
+services:
+  api-gateway:
+    build: ./platform/api-gateway
+    ports: ["8000:8000"]
+    networks: [ud-network]
+
+  user-service:
+    build: ./platform/services/user-service
+    networks: [ud-network]
+
+  ml-service:
+    build: ./platform/services/ml-service
+    networks: [ud-network]
+
+networks:
+  ud-network:
+    driver: bridge
