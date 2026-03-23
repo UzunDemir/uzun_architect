@@ -276,6 +276,3 @@ MIT License – free to use, modify, and distribute.
 
 *Built with 🐳 Docker and ⚡ FastAPI*
 ```
-
-- Covers troubleshooting common issues
-- Lists future enhancements for production readiness
