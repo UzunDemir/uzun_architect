@@ -275,11 +275,5 @@ MIT License – free to use, modify, and distribute.
 *Built with 🐳 Docker and ⚡ FastAPI*
 ```
 
-This README:
-- Provides clear architecture visualization
-- Documents all services with their specific dependencies
-- Includes setup instructions for both automated and manual deployment
-- Shows API endpoints and testing examples
-- Explains the dependency isolation strategy
 - Covers troubleshooting common issues
 - Lists future enhancements for production readiness
